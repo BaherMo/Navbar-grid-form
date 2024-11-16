@@ -1,0 +1,54 @@
+1- the link tag creates a relation ship to connect the current .html extension document with an external document .. for example: connecting a css file with the html or giving the html file a fav icon
+
+short answer:
+ when linking style sheets, favicons, and preloading assets
+
+examples:
+
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+------------------------------------------------------------------
+2- <audio> , <video> , and <picture> tags. the media tags that provides either vocal or visual experience
+
+------------------------------------------------------------------
+3- Question 3.html
+
+------------------------------------------------------------------
+4- we use <ol> when the order of the list is important as it stands for "ordered list"
+while <ul> is used when the order of the list can go in any order as it stands for "unordered list"
+
+------------------------------------------------------------------
+5- <!DOCTYPE html> that can be found at the top (first line) of the document
+
+------------------------------------------------------------------
+6- image 1 will be displayed on the range of 1000px+ 
+image 2 displayed at a range of 750px to 999px
+image displayed under 750px 
+
+------------------------------------------------------------------
+7- Question 7.html
+
+------------------------------------------------------------------
+8- Question 8.html
+
+------------------------------------------------------------------
+9- Question 9.html 
+
+------------------------------------------------------------------
+10- C- <a href="mailto:email@example.com?subject=Hello">Click me</a>
+
+------------------------------------------------------------------
+11- Question 11.html
+
+------------------------------------------------------------------
+12- Question 12.html
+
+------------------------------------------------------------------
+13- There is a header (h2) inside the <ul> which is wrong it should contain list items (<li>) only.
+
+------------------------------------------------------------------
+14- void
+
+------------------------------------------------------------------
+15- Question 15.html
